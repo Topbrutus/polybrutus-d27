@@ -25,6 +25,15 @@ python tests/independent_d27.py
 
 Both emit the same SHA-256 for the deterministic `results/certificate_d27.json`. All files from the frozen D26 scientific tag were packaged without Git metadata under `prior/d26/`.
 
+## Official Zenodo release and verification
+
+- **Official DOI:** [10.5281/zenodo.24410593](https://doi.org/10.5281/zenodo.24410593).
+- **Public record:** https://zenodo.org/records/24410593 ; 3/3 files verified using public API sizes and checksums.
+- **Scientific source:** [v0.1.0](https://github.com/Topbrutus/polybrutus-d27/tree/v0.1.0), frozen commit `a311d63291d9254664340b434c5a13162d0658c1`.
+- **Scientific tag CI:** [GitHub Actions run 44860862249](https://github.com/Topbrutus/polybrutus-d27/actions/runs/44860862249) success.
+- **Memoria registry:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/projects/POLYBRUTUS_X72_PUBLICATIONS_INDEX.md .
+- **Permanent checkpoint:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/checkpoints/POLYBRUTUS_D27_PUBLICATION_2026-11-20.md .
+
 ## Scientific contents
 
 - [Exact specification](SPECIFICATION_D27.md) and [proof](PREUVE_D27.md).

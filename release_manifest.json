@@ -1,0 +1,72 @@
+{
+  "ai_assistance": "OpenAI ChatGPT (Astra) materially assisted exact computation, independent verification, manuscript and publication; AI is not a scientific author",
+  "files": {
+    "POLYBRUTUS_27D_NOTE.pdf": {
+      "md5": "1b1dd69158cf784c9c8bc566f59f3c62",
+      "sha256": "99399beaed4a6e46e61266396a579711fc7f9bbfae9139414d8b11a85805e8e1",
+      "size": 80201
+    },
+    "POLYBRUTUS_D27_SOURCE_v0.1.0_GITHUB_TAG.zip": {
+      "md5": "01a3ac9db9fc4278ed9d71973c5c073c",
+      "sha256": "76c3ce23e599ec19783852db892174ca21570d3a635048ad6aba4f1d4a18c5d5",
+      "size": 561195
+    },
+    "certificate_d27.json": {
+      "md5": "291cc5cad71a6465d5f13a4cf6883116",
+      "sha256": "e464dab0dc5d6586a94a714f1fee06b93710b3ba2763d710501970e6a3e399c4",
+      "size": 38617
+    }
+  },
+  "github": {
+    "frozen_source_commit": "a311d63291d9254664340b434c5a13162d0658c1",
+    "frozen_source_tag": "v0.1.0",
+    "pretag_ci": "https://github.com/Topbrutus/polybrutus-d27/actions/runs/44860822185",
+    "repository": "https://github.com/Topbrutus/polybrutus-d27",
+    "tag_ci": "https://github.com/Topbrutus/polybrutus-d27/actions/runs/44860862249"
+  },
+  "human_scientific_author": "Gabriel St-Pierre",
+  "mathematics": {
+    "affine_rank": 27,
+    "centered_gram_rank": 27,
+    "ideal_graph_eigenvalue_16_multiplicity": 21,
+    "ideal_graph_eigenvalue_31_over_2_multiplicity": 4,
+    "new_pairs": 31,
+    "normalized_squared_distance_histogram": {
+      "10": 10,
+      "12": 6,
+      "13": 2,
+      "16": 2,
+      "4": 6,
+      "7": 2,
+      "8": 465,
+      "9": 3
+    },
+    "old_pairs_preserved": 465,
+    "pairs": 496,
+    "sum_squared_distances_R1": "4015/4",
+    "vertices": 32
+  },
+  "memoria": {
+    "checkpoint": "memoria/checkpoints/POLYBRUTUS_D27_PUBLICATION_2026-11-20.md",
+    "registry": "memoria/projects/POLYBRUTUS_X72_PUBLICATIONS_INDEX.md",
+    "repository": "Topbrutus/topbrutus_one"
+  },
+  "parent": {
+    "certificate_sha256": "1b109ad0e5e7df765a00ca3fc5566d9d3381c96be1dd2e83bfe76c049159707a",
+    "doi": "10.5281/zenodo.24410491",
+    "embedded_via_git_archive": true,
+    "frozen_source_commit": "5334c0fae387338314ea6e0fb8450bb3c1a5fcfa",
+    "frozen_source_tag": "v0.1.0",
+    "repository": "Topbrutus/polybrutus-d26"
+  },
+  "schema": "POLYBRUTUS-D27-RELEASE-MANIFEST-v1",
+  "scientific_limits": "Specific mathematical synthetic metric and selected ideal weighted graph, no measured physical dimension or frequency, no universal theorem or independent human peer review",
+  "status": "DONE",
+  "version": "0.1.0",
+  "zenodo": {
+    "doi": "10.5281/zenodo.24410593",
+    "public_integrity": "All 3 files verified through public Zenodo API for byte length and MD5",
+    "public_url": "https://zenodo.org/records/24410593",
+    "record_id": 24410593
+  }
+}

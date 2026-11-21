@@ -1,0 +1,5 @@
+# SHA-256 of three official public Zenodo record 24410593 release files
+# Scientific ZIP is exported from the frozen v0.1.0 tag rather than committed separately.
+76c3ce23e599ec19783852db892174ca21570d3a635048ad6aba4f1d4a18c5d5  POLYBRUTUS_D27_SOURCE_v0.1.0_GITHUB_TAG.zip
+99399beaed4a6e46e61266396a579711fc7f9bbfae9139414d8b11a85805e8e1  publication/POLYBRUTUS_27D_NOTE.pdf
+e464dab0dc5d6586a94a714f1fee06b93710b3ba2763d710501970e6a3e399c4  results/certificate_d27.json

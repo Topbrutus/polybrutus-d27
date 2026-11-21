@@ -10,3 +10,5 @@ date-released: 2026-11-20
 license: MIT
 repository-code: https://github.com/Topbrutus/polybrutus-d27
 abstract: "Exact 32-vertex labelled Euclidean metric preserving 465 parent pairs, and a chosen dimensionless weighted-graph spectrum."
+doi: 10.5281/zenodo.24410593
+url: https://doi.org/10.5281/zenodo.24410593
